@@ -1,6 +1,6 @@
 
 
-#### -- Project Status: [Incompleted]
+## -- Project Status: [Incompleted]
 
 ## Project Intro/Objective
 The purpose of this project was to predict the price of electricity in the day head markets, 24 hours in advance.
